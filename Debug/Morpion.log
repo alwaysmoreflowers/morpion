@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Morpion.cpp
+F:\Emmanuel V\Morpion\Morpion\Morpion.cpp(244,20): warning C4018:  '<' : incompatibilité signed/unsigned
+F:\Emmanuel V\Morpion\Morpion\Morpion.cpp(348): warning C4715:  'checkingGrid' : les chemins de contrôle ne retournent pas tous une valeur
+  Morpion.vcxproj -> F:\Emmanuel V\Morpion\Debug\Morpion.exe
